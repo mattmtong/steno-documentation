@@ -1,5 +1,5 @@
-site_name: My Docs
-site_url: https://sitename.example
+site_name: Steno Documentation
+site_url: https://mattmtong.github.io/steno-documentation/
 theme:
   name: material
   font:
