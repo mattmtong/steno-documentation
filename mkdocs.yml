@@ -2,9 +2,9 @@ site_name: Steno Documentation
 site_url: https://mattmtong.github.io/steno-documentation/
 
 nav:
-  - Home: index.md
-  - Code: code-examples.md
-  - Diagram: diagram-examples.md
+    - Home: index.md
+    - Code: code-examples.md
+    - Diagram: diagram-examples.md
 
 theme:
   name: material
