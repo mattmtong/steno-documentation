@@ -48,6 +48,10 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
+plugins:
+  - search
+  - awesome-pages
+
 extra:
   social:
     - icon: fontawesome/brands/youtube
