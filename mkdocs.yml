@@ -2,7 +2,7 @@ site_name: Steno Documentation
 site_url: https://mattmtong.github.io/steno-documentation/
 
 nav:
-  - Home: 'index.md'
+  - S-, T-, K-, A, *, E, -T, -S, -R: 'Chapter-1.md'
   - Code: 'code-examples.md'
   - Diagram: 'diagram-examples.md'
 
